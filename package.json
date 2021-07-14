@@ -1,0 +1,14 @@
+{
+  "name": "fp-with-typescript",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Luca Del Puppo",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc -b",
+    "serve": "node dist/index.js"
+  },
+  "dependencies": {
+    "typescript": "^4.3.5"
+  }
+}
