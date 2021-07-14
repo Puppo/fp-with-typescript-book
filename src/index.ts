@@ -1,1 +1,2 @@
-console.log("Functional programming with typescript");
+import "./custom-lens";
+import "./ramda-lens";
